@@ -5,5 +5,5 @@ This report represents a comprehensive study on the application of convolutional
 First test result of the model after 6 epochs gave a 63.89% accuracy rate.
 Running the model again, the second test result after 13 epochs gave a 86.12% accuracy rate. The increased accuracy shows that adding more test images helped the model understand better and thus giving better results
 
-**#Conclusion**
+# Conclusion
 In conclusion this study demonstrates the effectiveness of CNNs in image classification tasks. The developed model showcases promising results, and further research may explore enhancements, such as ensemble methods or attention mechanisms, to improve performance. The findings contribute to the growing body of knowledge in deep learning and its applications in image classification. The overall accuracy of the model here is 86.16%.
