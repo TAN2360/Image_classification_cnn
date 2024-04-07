@@ -7,3 +7,7 @@ Running the model again, the second test result after 13 epochs gave a 86.12% ac
 
 # Conclusion
 In conclusion this study demonstrates the effectiveness of CNNs in image classification tasks. The developed model showcases promising results, and further research may explore enhancements, such as ensemble methods or attention mechanisms, to improve performance. The findings contribute to the growing body of knowledge in deep learning and its applications in image classification. The overall accuracy of the model here is 86.16%.
+
+**SOURCE DATA**
+the train and test data can be downloaded from the following link:
+https://www.kaggle.com/code/caodongpeng/third-approach/input
